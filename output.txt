@@ -1,2 +1,4 @@
-7
-Hello Deng Hui
+Hello
+Deng
+Hui
+3
