@@ -1,7 +1,2 @@
-h
-o
-h
-e
-l
-l
-o
+7
+Hello Deng Hui
